@@ -5,6 +5,20 @@
 
 [Leia em Português Brasileiro](README_pt-BR.md)
 
+## 📑 Table of Contents
+- [🚀 Overview](#-overview)
+- [✨ Features](#-features)
+- [🛠️ Technologies Used](#️-technologies-used)
+- [📋 Requirements](#-requirements)
+- [🔧 Installation](#-installation)
+- [📖 Usage](#-usage)
+- [❓ F.A.Q.](#-faq)
+- [🤝 Contribution](#-contribution)
+- [📜 License](#-license)
+- [🙌 Acknowledgements](#-acknowledgements)
+
+---
+
 ## 🚀 Overview
 Bedrock Shaders Injector is a Windows PowerShell-based tool designed to simplify the process of replacing `.bin` shader files in Minecraft Bedrock Edition. With a user-friendly graphical interface, it allows you to manage shader files effectively and securely.
 
