@@ -49,7 +49,7 @@ Bedrock Shaders Injector is a Windows PowerShell-based tool designed to simplify
 
 ## 🔧 Installation
 1. **Download the script**:
-   - Visit the [Releases Page](https://github.com/your-username/bedrock-shaders-injector/releases) to download the latest version.
+   - Visit the [Releases Page](https://github.com/RickHD/Bedrock-Shaders-Injector/releases) to download the latest version.
 
 2. **Prepare your environment**:
    - Ensure PowerShell is added to your system's PATH environment variable.
